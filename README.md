@@ -1,2 +1,3 @@
 # Project2_Cosmology_LCCP
 This project was made as the second evaluation of the course "Cosmology" in Universidad de Guanajuato, División de Ciencias e Ingenierías, the professor in charge of the course is Alma González.
+In this project we explore how the CMB and matter power spectrum varies as function of the cosmological parameters, and what is the observational data available to compare with and qualitatively determine the best cosmological model. For doing this project, we use CLASS, which is a python based code that lets us vary the parameters to obtain data for the modified universe so that we can make graphs to see precisely how the power spectrums change because of the modifications.
